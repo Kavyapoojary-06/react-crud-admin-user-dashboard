@@ -3,7 +3,7 @@
 
 This is a web application built with React that allows administrators to manage student data and users to view student information.
 
-Features:
+## Features:
 
 ### Admin Dashboard: 
 Allows administrators to perform CRUD operations on student data.
